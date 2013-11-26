@@ -67,5 +67,11 @@ public class TestNumbers {
 		assertTrue(num.sub(a, b) == 30);
 	}
 	
+	@Test
+	public void testMul() {
+		Numbers num = new Numbers();
+		assertEquals(num.mul(a,b), 675);
+	}
+	
 	
 }

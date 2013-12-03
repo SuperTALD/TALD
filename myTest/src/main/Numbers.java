@@ -17,4 +17,9 @@ public class Numbers {
 		public int mul(int a, int b){
 		return a*b;
 	}
+
+		public int cube(int a, int b){
+		return a*a*a;
+	}
+
 }

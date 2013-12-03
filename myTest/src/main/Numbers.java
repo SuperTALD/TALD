@@ -18,7 +18,7 @@ public class Numbers {
 		return a*b;
 	}
 
-		public int cube(int a, int b){
+		public int cube(int a){
 		return a*a*a;
 	}
 
